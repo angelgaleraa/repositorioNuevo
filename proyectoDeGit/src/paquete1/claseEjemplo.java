@@ -7,6 +7,7 @@ public class claseEjemplo {
 		System.out.println("Hola mundo");
 		System.out.println("Nuevo cambio");
 		System.out.println("Cambio hecho en la nueva rama");
+		System.out.println("Otro cambio");
 	}
 
 }
